@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|f:\\halfi\\agate 2d\\halfi-pong\\assets\\ballcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|solutionrelative:assets\\ballcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|F:\\Halfi\\Agate 2D\\Halfi-Pong\\assets\\paddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|solutionrelative:assets\\paddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaddleController.cs",
+              "DocumentMoniker": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\PaddleController.cs",
+              "RelativeDocumentMoniker": "Assets\\PaddleController.cs",
+              "ToolTip": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\PaddleController.cs",
+              "RelativeToolTip": "Assets\\PaddleController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:04:13.412Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BallControl.cs",
+              "DocumentMoniker": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\BallControl.cs",
+              "RelativeDocumentMoniker": "Assets\\BallControl.cs",
+              "ToolTip": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\BallControl.cs",
+              "RelativeToolTip": "Assets\\BallControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:12:40.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

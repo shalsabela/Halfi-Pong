@@ -1,0 +1,8 @@
+
+*.vsidx
+Library/*
+Logs/*
+Temp/*
+.obj/*
+.vsconfig
+*.sln
