@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|f:\\halfi\\agate 2d\\halfi-pong\\assets\\script\\powerupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\powerupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|F:\\Halfi\\Agate 2D\\Halfi-Pong\\assets\\script\\puspeedupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\puspeedupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|F:\\Halfi\\Agate 2D\\Halfi-Pong\\assets\\script\\ballcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ballcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|F:\\Halfi\\Agate 2D\\Halfi-Pong\\assets\\script\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|F:\\Halfi\\Agate 2D\\Halfi-Pong\\assets\\script\\goalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\goalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|f:\\halfi\\agate 2d\\halfi-pong\\assets\\script\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|F:\\Halfi\\Agate 2D\\Halfi-Pong\\assets\\script\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|F:\\Halfi\\Agate 2D\\Halfi-Pong\\assets\\script\\goalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\goalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|F:\\Halfi\\Agate 2D\\Halfi-Pong\\assets\\script\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|F:\\Halfi\\Agate 2D\\Halfi-Pong\\assets\\script\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,21 +42,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ScoreManager.cs",
               "DocumentMoniker": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\Script\\ScoreManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ScoreManager.cs",
               "ToolTip": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\Script\\ScoreManager.cs",
               "RelativeToolTip": "Assets\\Script\\ScoreManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAUAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T11:51:07.425Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -58,14 +65,51 @@
               "RelativeDocumentMoniker": "Assets\\Script\\GoalController.cs",
               "ToolTip": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\Script\\GoalController.cs",
               "RelativeToolTip": "Assets\\Script\\GoalController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T12:28:03.677Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PowerUpManager.cs",
+              "DocumentMoniker": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\Script\\PowerUpManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PowerUpManager.cs",
+              "ToolTip": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\Script\\PowerUpManager.cs",
+              "RelativeToolTip": "Assets\\Script\\PowerUpManager.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwCwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:08:58.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PUSpeedUpController.cs",
+              "DocumentMoniker": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\Script\\PUSpeedUpController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PUSpeedUpController.cs",
+              "ToolTip": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\Script\\PUSpeedUpController.cs",
+              "RelativeToolTip": "Assets\\Script\\PUSpeedUpController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:00:50.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BallControl.cs",
+              "DocumentMoniker": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\Script\\BallControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BallControl.cs",
+              "ToolTip": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\Script\\BallControl.cs",
+              "RelativeToolTip": "Assets\\Script\\BallControl.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:50:56.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ScoreController.cs",
               "DocumentMoniker": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\Script\\ScoreController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ScoreController.cs",
@@ -73,12 +117,11 @@
               "RelativeToolTip": "Assets\\Script\\ScoreController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T11:44:56.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T11:44:56.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "PaddleController.cs",
               "DocumentMoniker": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\Script\\PaddleController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PaddleController.cs",
@@ -90,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MainMenuController.cs",
               "DocumentMoniker": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\Script\\MainMenuController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\MainMenuController.cs",
@@ -99,19 +142,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T11:51:00.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BallControl.cs",
-              "DocumentMoniker": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\Script\\BallControl.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\BallControl.cs",
-              "ToolTip": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\Script\\BallControl.cs",
-              "RelativeToolTip": "Assets\\Script\\BallControl.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T11:50:56.222Z",
-              "EditorCaption": ""
             }
           ]
         }
