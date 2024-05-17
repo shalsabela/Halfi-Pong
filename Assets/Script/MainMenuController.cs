@@ -20,4 +20,9 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("Credits");
     }
+
+    public void doExitGame()
+    {
+        Application.Quit();
+    }
 }

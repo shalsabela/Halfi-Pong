@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|F:\\Halfi\\Agate 2D\\Halfi-Pong\\assets\\script\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|F:\\Halfi\\Agate 2D\\Halfi-Pong\\assets\\script\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|f:\\halfi\\agate 2d\\halfi-pong\\assets\\script\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|F:\\Halfi\\Agate 2D\\Halfi-Pong\\assets\\script\\creditmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\creditmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|f:\\halfi\\agate 2d\\halfi-pong\\assets\\script\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B65807E0-F4DD-C18A-50F4-FC8BE02147FA}|Assembly-CSharp.csproj|F:\\Halfi\\Agate 2D\\Halfi-Pong\\assets\\script\\goalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ScoreManager.cs",
               "DocumentMoniker": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\Script\\ScoreManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ScoreManager.cs",
@@ -67,8 +67,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T11:51:07.425Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -121,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ScoreController.cs",
               "DocumentMoniker": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\Script\\ScoreController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ScoreController.cs",
@@ -146,20 +145,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainMenuController.cs",
               "DocumentMoniker": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\Script\\MainMenuController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\MainMenuController.cs",
               "ToolTip": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\Script\\MainMenuController.cs",
               "RelativeToolTip": "Assets\\Script\\MainMenuController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T11:51:00.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CreditMenuController.cs",
               "DocumentMoniker": "F:\\Halfi\\Agate 2D\\Halfi-Pong\\Assets\\Script\\CreditMenuController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\CreditMenuController.cs",
@@ -167,8 +166,7 @@
               "RelativeToolTip": "Assets\\Script\\CreditMenuController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T05:03:59.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T05:03:59.896Z"
             },
             {
               "$type": "Document",
