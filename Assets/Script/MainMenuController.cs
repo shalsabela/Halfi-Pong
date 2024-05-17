@@ -15,4 +15,9 @@ public class MainMenu : MonoBehaviour
     {
         Debug.Log("Created by Halfi Pradnya Shalsabela");
     }
+
+    public void OpenCredit()
+    {
+        SceneManager.LoadScene("Credits");
+    }
 }

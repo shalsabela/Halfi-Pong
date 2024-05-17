@@ -27,6 +27,15 @@ public class PaddleController : MonoBehaviour
         MoveObject(movement);
     }
 
+    public void SpeedUp(int newSpeed)
+    {
+        speed = newSpeed;
+    }
+
+    public void Enlarge(float newLength)
+    {
+        transform.localScale = new Vector3(transform.localScale.x, newLength, transform.localScale.z);
+    }
     private Vector2 GetInput()
     {
         if (Input.GetKey(upKey))

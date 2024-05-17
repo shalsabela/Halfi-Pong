@@ -29,6 +29,7 @@ public class PowerUpManager : MonoBehaviour
 
         if (timer > spawnInterval)
         {
+            Debug.Log(timer);
             GenerateRandomPowerUp();
             timer -= spawnInterval;
         }
@@ -36,6 +37,7 @@ public class PowerUpManager : MonoBehaviour
 
     public void GenerateRandomPowerUp()
     {
+        Debug.Log("Spawn");
         GenerateRandomPowerUp(new Vector2(Random.Range(powerUpAreaMin.x, powerUpAreaMax.x), Random.Range(powerUpAreaMin.y, powerUpAreaMax.y)));
     }
 

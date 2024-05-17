@@ -16,4 +16,10 @@ public class ScoreController : MonoBehaviour
         skorKiri.text = manager.leftScore.ToString();
         skorKanan.text = manager.rightScore.ToString();
     }
+
+    public void OpenMenu()
+    {
+        SceneManager.LoadScene("Main Menu");
+
+    }
 }
